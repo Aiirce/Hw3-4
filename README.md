@@ -7,6 +7,8 @@ El cuaderno **act_kmeans.ipynb** pertece a la actividad nombrada **Actividad Eva
 
 Ambos cuadernos utilizan el mismo dataset **online_retail-1.csv**.
 
+***La respuesta a las preguntas de cada actividad se encuentra al final de su respectivo cuaderno.***
+
 # Manual de como correr el código
 
 Paso 1: Descarga el cuaderno de Jupyter de tu interés y la base de datos **online_retail-1.csv** y abrelo con Visual Studio Code o cualquier editor de código. 
