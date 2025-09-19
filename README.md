@@ -10,11 +10,13 @@ Ambos cuadernos utilizan el mismo dataset **online_retail-1.csv**.
 
 Paso 1: Descarga el cuaderno de Jupyter de tu interés y la base de datos **online_retail-1.csv** y abrelo con Visual Studio Code o cualquier editor de código. 
 
-Paso 2: Asegurate de tener instaladas las librerías "Pandas" y "Seaborn". Para instalarlas puedes usar la consola y escribir lo siguiente:
+Paso 2: Asegurate de tener instaladas las librerías "Pandas", "Seaborn", "Matplotlib" y "Scikit-Learn". Para instalarlas puedes usar la consola y escribir lo siguiente:
 
 ```bash
 pip install pandas
 pip install seaborn
+pip install matplotlib
+pip install scikit-learn
 ```
 
 Paso 3: Ejecutar todo el código.
