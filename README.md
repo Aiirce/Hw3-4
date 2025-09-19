@@ -1,5 +1,6 @@
 # En este repositorio se encuentran 2 cuadernos de Jupyter para cada una de las actividades.
 
+
 El cuaderno **act_mapas_calor_boxplots.ipynb** pertenece a la actividad nombrada **Actividad Evaluable: Mapas de calor y boxplots**
 
 El cuaderno **act_kmeans.ipynb** pertece a la actividad nombrada **Actividad Evaluable: Patrones con K-means**
